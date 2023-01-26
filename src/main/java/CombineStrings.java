@@ -8,7 +8,7 @@ public class CombineStrings {
      * @return the combination of strings a and b.
      */
     public String combine(String a, String b){
-        String bigstrs = a + b;
-        return bigstrs;
+        String bigstr = a + b;
+        return bigstr;
     }
 }
